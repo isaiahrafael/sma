@@ -15,4 +15,4 @@ Feel free to clone this repo, but please use it at your discretion. If your HW i
 To clone this repository, open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/popsicle/sma.git
+git clone https://github.com/isaiahrafael/sma.git
