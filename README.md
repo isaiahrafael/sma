@@ -21,7 +21,7 @@ If you want to use the code, follow these steps:
 Open your terminal and run:
 
 ```sh
-git clone https://github.com/popsicle/sma.git
+git clone https://github.com/isaiahrafael/sma.git
 ```
 
 #### Using Visual Studio Code
