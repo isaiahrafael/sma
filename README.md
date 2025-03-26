@@ -1,12 +1,10 @@
 # Simulation Modelling Analysis
+This repo is created by Isaiah Rafael Tugano Blauta for Term 6 SMA.
 
-If you're reading this, it's too late.
-
-Anyway, this Git repo will contain most, if not all, SMA HW code.
-Also, if I shared this with you, it probably means that you helped me one way or another, or I'm just bored.
+Anyway, this Git repo will contain most, if not all, SMA related code.
 
 Take note of updates via the **'LAST COMMIT MESSAGE'** column to see whether I modified anything.
-Feel free to clone this repo, but please use it at your discretion. If your HW is wrong, we're wrong.
+Feel free to clone this repo, but please use it at your discretion.
 
 ---
 
@@ -21,7 +19,7 @@ If you want to use the code, follow these steps:
 Open your terminal and run:
 
 ```sh
-git clone https://github.com/popsicle/sma.git
+git clone https://github.com/isaiahrafael/sma.git
 ```
 
 #### Using Visual Studio Code

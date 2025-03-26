@@ -72,7 +72,7 @@ var statistics = [
 ];
 
 // Probabilities for arrivals and departures
-var probArrival = 0.25;
+var probArrival = 0.8;
 var probDeparture = 0.28;
 var probTypeA = 0.5;
 
